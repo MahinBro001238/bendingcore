@@ -1,0 +1,7 @@
+name: BendingCore
+version: 1.0
+main: com.mahin.Plugin
+api-version: 26.2
+depend:
+  - Bending
+  - LuckPerms
